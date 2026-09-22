@@ -1,0 +1,4 @@
+tools/
+*.stackdump
+.DS_Store
+Thumbs.db
