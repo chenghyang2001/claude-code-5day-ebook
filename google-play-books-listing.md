@@ -12,8 +12,9 @@
 | 格式 | EPUB 3（`release/claude-code-5day-guide-v1.0-googleplay.epub`） |
 | 封面 | `cover.jpg`（1600×2560 px） |
 | 版本 | v1.0 |
-| 定價 | 免費（首版，以累積讀者回饋為主） |
-| 主題分類 | Computers / Programming / General；Computers / Artificial Intelligence / General |
+| Google 書籍 ID | GGKEY:JW0UQ7B3AAZ |
+| 定價 | NT$30（基價 TWD 30；台灣前台顯示 NT$31.50，作者收益約 NT$16／52%；多數國家收益 70%，如美國 US$0.99） |
+| 主題分類 | BISAC COM051000 Computers / Programming / General；COM100000 Computers / Artificial Intelligence / Generative AI |
 | 關鍵字 | Claude Code、Claude、AI 程式助理、AI 寫程式、命令列、CLI、終端機、新手入門、Anthropic、每日行動指南 |
 
 ## 短版簡介（約 50 字）

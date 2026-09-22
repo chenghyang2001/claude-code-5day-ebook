@@ -6,11 +6,12 @@
 | 上架候選檔 | `release/claude-code-5day-guide-v1.0-googleplay.epub` |
 | 封面 | `cover.jpg`（1600×2560） |
 | 版本 | v1.0（git tag `v1.0`） |
-| 定價 | 免費（首版） |
-| Metadata 分類 | Computers / Programming；Computers / Artificial Intelligence |
+| Google 書籍 ID | GGKEY:JW0UQ7B3AAZ |
+| 定價 | NT$30 |
+| Metadata 分類 | BISAC COM051000 Programming / General；COM100000 AI / Generative AI |
 | EPUB 檢查 | EPUBCheck 5.4.0：0 錯誤 / 0 警告 |
 | 原始碼 | <https://github.com/chenghyang2001/claude-code-5day-ebook> |
-| 後台狀態 | **尚未上架**：Google Play 圖書合作夥伴中心尚未建立出版商帳戶（2026-09-22 確認，停在註冊步驟 1/2） |
+| 後台狀態 | **草稿**：出版商帳戶已建立；書籍資訊、撰稿者、類型、定價已填；待上傳 EPUB＋封面後送審（2026-09-22） |
 
 ## 第四週完成標準
 
